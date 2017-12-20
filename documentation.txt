@@ -1,0 +1,7 @@
+C1:
+	Ich erstelle ein neues Repository auf Github.
+	Dieses clone ich mit dem Befehl <git clone> auf meinen lokalen Speicher.
+	Dort erstelle ich die Datei test.txt, welches ich bei jedem commit ändern werde.
+	Dieses mach ich durch den Befehl <git add> tracked.
+	Dann erstelle ich die Datei documentation.txt, in welcher ich hier alles kommentieren werde.
+	Diese mache ich wiederum tracked mit dem Befehl <git add> und ich erstelle einen neuen Commit mit dem Befehl <git commit>.
