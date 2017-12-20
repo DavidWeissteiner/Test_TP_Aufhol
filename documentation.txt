@@ -5,3 +5,11 @@ C1:
 	Dieses mach ich durch den Befehl <git add> tracked.
 	Dann erstelle ich die Datei documentation.txt, in welcher ich hier alles kommentieren werde.
 	Diese mache ich wiederum tracked mit dem Befehl <git add> und ich erstelle einen neuen Commit mit dem Befehl <git commit>.
+
+C3:
+	Ich wechsle zurück auf den master <git checkout master>.
+	Dann mache ich wiederum einen neuen Branch namens iss1.
+	Ich wechsle in diesen.
+	Verändere dort test.txt.
+	Mache wieder einen Commit.
+	Lade es auf Github hinauf <git push>.
