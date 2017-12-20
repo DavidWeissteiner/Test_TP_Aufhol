@@ -7,6 +7,7 @@ C1:
 	Diese mache ich wiederum tracked mit dem Befehl <git add> und ich erstelle einen neuen Commit mit dem Befehl <git commit>.
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 C4:
 	Ich wechsle wieder zum master, verändere dort test.txt, mache einen commit und lade es wiederum auf Github hinauf.
 =======
@@ -16,3 +17,12 @@ C2:
 	Dann schreibe ich eine neue Zeile in test.txt.
 	Danach erstelle ich wieder einen neuen Commit <git commit> und lade es auf Github hinauf <git push>.
 >>>>>>> iss2
+=======
+C3:
+	Ich wechsle zurück auf den master <git checkout master>.
+	Dann mache ich wiederum einen neuen Branch namens iss1.
+	Ich wechsle in diesen.
+	Verändere dort test.txt.
+	Mache wieder einen Commit.
+	Lade es auf Github hinauf <git push>.
+>>>>>>> iss1
