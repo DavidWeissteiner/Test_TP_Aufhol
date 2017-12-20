@@ -6,5 +6,13 @@ C1:
 	Dann erstelle ich die Datei documentation.txt, in welcher ich hier alles kommentieren werde.
 	Diese mache ich wiederum tracked mit dem Befehl <git add> und ich erstelle einen neuen Commit mit dem Befehl <git commit>.
 
+<<<<<<< HEAD
 C4:
 	Ich wechsle wieder zum master, verändere dort test.txt, mache einen commit und lade es wiederum auf Github hinauf.
+=======
+C2:
+	Ich erstelle eine neue Branch mit dem Namen iss2 durch den Befehl <git branch iss2>.
+	Ich wechsle in diesen Branch durch den Befehl <git checkout iss2>.
+	Dann schreibe ich eine neue Zeile in test.txt.
+	Danach erstelle ich wieder einen neuen Commit <git commit> und lade es auf Github hinauf <git push>.
+>>>>>>> iss2

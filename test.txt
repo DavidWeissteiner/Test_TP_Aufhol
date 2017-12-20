@@ -1,2 +1,6 @@
 Das ist mein File und mein Commit C1
+<<<<<<< HEAD
 C4
+=======
+Hier kommt Commit C2
+>>>>>>> iss2
