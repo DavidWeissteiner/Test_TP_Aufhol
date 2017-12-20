@@ -5,3 +5,6 @@ C1:
 	Dieses mach ich durch den Befehl <git add> tracked.
 	Dann erstelle ich die Datei documentation.txt, in welcher ich hier alles kommentieren werde.
 	Diese mache ich wiederum tracked mit dem Befehl <git add> und ich erstelle einen neuen Commit mit dem Befehl <git commit>.
+
+C4:
+	Ich wechsle wieder zum master, verändere dort test.txt, mache einen commit und lade es wiederum auf Github hinauf.
